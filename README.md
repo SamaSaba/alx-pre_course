@@ -1,1 +1,1 @@
-# This is the first read me file
+# Description of the repository
